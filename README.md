@@ -10,7 +10,7 @@ products:
 - azure-app-service
 ---
 
-# .NET Core MVC sample for Azure App Service
+# .NET Core MVC sample for Azure App Serviced
 
 This is a sample application that you can use to follow along with the tutorial at 
 [Tutorial: Deploy an ASP.NET Core and Azure SQL Database app to Azure App Service](https://learn.microsoft.com/azure/app-service/tutorial-dotnetcore-sqldb-app). 
