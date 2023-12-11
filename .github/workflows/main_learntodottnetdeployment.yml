@@ -60,4 +60,4 @@ jobs:
           app-name: 'LearnToDotNetDeployment'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73106E0FEAB748DC8459DA5EC293B134 }}
+          publish-profile: ${{ secrets.AZURE_PUBLISH_SECRET }}
