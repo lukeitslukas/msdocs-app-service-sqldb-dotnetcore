@@ -101,6 +101,7 @@ namespace DotNetCoreSqlDb.Controllers
                 await _cache.RemoveAsync(_TodoItemsCacheKey);
                 return RedirectToAction(nameof(Index));
             }
+            throw new Exception();
             return View(todo);
         }
 
